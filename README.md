@@ -1,16 +1,14 @@
-### Hi there 👋
+<img src="cover.jpeg"/>
 
-<!--
-**tizisdeepan/tizisdeepan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I am a passionate and experienced Android Developer with a profound interest to innovate and love pushing mobile technologies to their limits.
 
-Here are some ideas to get you started:
+# Work Experience
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SPECTRUM Global, Singapore (Apr 2020 - Present) 
+Senior Android Developer
+  
+## Facilio (Sep 2019 - Apr 2020) 
+Senior Android Developer
+
+## Zoho Corporation (Sep 2017 - Sep 2019) 
+Android Developer
