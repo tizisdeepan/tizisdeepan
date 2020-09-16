@@ -1,5 +1,3 @@
-<img src="cover.jpeg" width="100%"/>
-
 # Hi there 👋 I am a passionate and experienced Android Developer with a profound interest to innovate and love pushing mobile technologies to their limits.
 
 # Work Experience
